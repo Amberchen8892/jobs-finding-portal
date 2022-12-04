@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -49,3 +50,14 @@ function About() {
 }
 
 export default About;
+=======
+import React from 'react'
+
+function About() {
+  return (
+    <div>About</div>
+  )
+}
+
+export default About
+>>>>>>> ac43213bd44132f43213cf5e5ce3c532e08b4a64
